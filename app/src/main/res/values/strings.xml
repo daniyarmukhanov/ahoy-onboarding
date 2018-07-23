@@ -3,4 +3,11 @@
     <string name="button.finish">FINISH</string>
     <string name="button.next">NEXT</string>
     <string name="button.skip">SKIP</string>
+    <string name="onboarding_title_1">Быстрее чем стоять в пробке</string>
+    <string name="onboarding_desc_1">Оплачивайте услуги без очередей и комиссий</string>
+    <string name="onboarding_title_2">Безопаснее чем бумажник</string>
+    <string name="onboarding_desc_2">Избавьтесь от лишнего — храните карты в одном месте и в безопасности</string>
+    <string name="onboarding_title_3">Выгоднее чем в банке</string>
+    <string name="onboarding_desc_3">Совершайте денежные операции без карты. Переводите, оплачивайте и получайте кэшбэк</string>
+
 </resources>
